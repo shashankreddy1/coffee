@@ -1,0 +1,100 @@
+th, td {
+  border: 1px solid red;
+  height: 50px;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+}
+
+td:hover {
+  height: 100px;
+  width: 700px;
+}
+
+#coffee nav {
+  color: #6f4e37;
+  margin: 20px;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  /*margin:20px;*/
+  /*padding:10px;*/
+  /*float:left;*/
+  /*background-color: #6f4e37;*/
+  text-align: centre;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+li {
+  display: block;
+  color: black;
+  width: 210px;
+  float: left;
+}
+
+ol {
+  margin: 0px 0px 10px 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  width: 100%;
+}
+
+img {
+  float: left;
+}
+
+.coffee {
+  background-image: url("images/coffee-beans.jpg");
+  height: 100px;
+  width: 100%;
+}
+
+#quote {
+  height: 350px;
+  width: 350px;
+  color: black;
+  float: right;
+  font-size: 25px;
+  font-family: 'Mr Dafoe', cursive;
+  background-color: #6f4e37;
+}
+
+a .class {
+  text-decoration: underline;
+  color: blue;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+   font-size: 25px;
+
+}
+.grindingimage {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.navbtntoggler{
+  background-color: #6f4e37 !important ;
+}
+.navbarcolor{
+background-color: #6f4e37  !important;
+}
+.navbarhover ul li:hover{
+  background-color: red;
+}
+#id{
+  font-size:25px;
+}
+.cup img{
+  float: left !important;
+  }
+.cup p{
+  width:600px;
+}

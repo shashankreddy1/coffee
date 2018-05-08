@@ -1,0 +1,27 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+font-size: 32px;
+color:brown;
+
+}
+
+h2{
+
+font-size: 20px;
+color:black;
+
+}
+
+.para{
+
+  text-align:
+}
+p{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: monospace;
+}
