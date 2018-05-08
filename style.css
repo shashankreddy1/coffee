@@ -98,3 +98,25 @@ background-color: #6f4e37  !important;
 .cup p{
   width:600px;
 }
+
+
+.container{
+  margin: 30px;
+}
+.col{
+  margin:30px;
+}
+.col-6{
+  margin:30px;
+}
+.col-5{
+margin:30px;
+}
+.card-inner-body{
+  height:13rem;
+  overflow: hidden;
+  font-size:15px;
+}
+.card-text{
+  font-size: 15px;
+}
